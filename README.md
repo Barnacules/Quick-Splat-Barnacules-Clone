@@ -1,7 +1,7 @@
 # Quick-Splat-Barnacules-Clone
 #Codegasm Unity Series - Creating Quick Splat Barnacules Clone (See original game in iOS and Android marketplace)
 
-<b>Episode 1 (URL here)</b><br>
+## [Episode 1](https://www.youtube.com/watch?v=3R534HIfJhk)
 How to setup the Visual Studio 2017 environment and Unity to prepare for making your first game. This includes changing the layout, importing image, simple physics 2D demonstratoin.
 
 <b>Episode 2 (URL HERE)</b><br>
